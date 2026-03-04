@@ -1,1 +1,8 @@
-
+KALI LINUX COMMANDS
+ls 
+ls -l
+chmod(change mode of a file)
+touch -creating a file
+cd- change directory
+cd.. - leaving the folder
+sudo apt update-> apt upgrade 
