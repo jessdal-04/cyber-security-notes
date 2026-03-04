@@ -1,2 +1,55 @@
 Networking
-tcp
+
+IPv4 - 4 octet
+-MAC - Unique address
+-12 decimal 
+-network interface card(interconnection)
+-temporary spoofying
+
+ICMP - protocol
+
+LAN
+Topology-star
+        -bus 
+        -Ring
+        -Mesh
+
+SWITCH
+switch runs mostly using MAC
+
+ROUTER
+Travel across the network
+
+Gateway- wifi router identify
+
+DHCP
+Assignes IP manually
+
+OSI MODEL
+Layer 3- OSFP
+
+PACKETS- Works at Layer (ip info, data)
+FRAMES- Works at layers
+
+TCP/IP MODEL(4 LAYERS)
+1.Application
+2.transport
+3.internet
+4.network
+
+TCP HEADERS
+-Source port
+-Destination port
+
+TCP 3 WAY HANDSHAKE
+-SYN
+-SYN+ACK
+-ACK
+
+UDP PACKET HEADERS
+-Time to live 
+-source port
+-destination port
+
+PORT
+Total= 0-65535 ports
