@@ -1,0 +1,23 @@
+Hackers Methodology
+ -Reconnaissance-> gathering a information and testing a target
+ the most common tool in this process:
+    -google dorking
+    -wappalyzer
+    -whois
+    -sublist3r
+  -Enumeration/scanning
+  -Gaining access
+  -Post exploitation
+  -covering tracks
+  -Reporting
+
+Tools
+-recon-ng
+-netdiscover -> ip device discovery
+-nslookup -> for name server
+-dnsenum
+-harvester
+-sherlock
+-metagoofil
+-osint framework
+  
